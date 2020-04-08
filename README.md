@@ -1,29 +1,29 @@
-# Prolink
-Prolink is a professional website for professionals of all kinds, to network, share ideas, seek help and also deliver solutions to other professionals in a more stramlined way.
+# AYCHDate
+AYCHDate is platform for professionals of all kinds. Joining AYCHDate network, professionals can share ideas, seek help and also deliver solutions to other professionals in a stramlined way.
 
 ## Table of Contents
 
-1. <a href="#hosted-app">Link to Hosted App</a>
-2. <a href="#tech-stack-used">Tech Stack Used</a>
-3. <a href="#application-features">Application Features</a>
+1. <a href="#site">Link to Site</a>
+2. <a href="#tech-used">Tech Used</a>
+3. <a href="#features">Main Features</a>
 4. <a href="#how-to-use">How To Use</a>
 5. <a href="#api-endpoints">API endpoints</a>
 6. <a href="#author">Author</a>
+7. <a href="#license">License</a>
 
-## Link to Hosted App
+## Link to Site
 
-https://proslink.herokuapp.com
+https://aychdate.github.io/
 
-## Tech Stack Used
+## Tech Used
 
-- [Node.js](https://nodejs.org/)
+- [Nodejs](https://nodejs.org/)
 - [Express](https://expressjs.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [Html]()
+- [MongoDB](https://mongoosejs.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [React](https://reactjs.org/)
 
-## Application Features
+## Main Features
 
 * Display Professionals Profiles
 * Register a user
@@ -37,11 +37,11 @@ https://proslink.herokuapp.com
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Nodejs](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/tolulope-od/prolink.git
+$ git clone https://github.com/aychdate/aychdate.github.io/)
 # Install dependencies
 $ npm install
 
@@ -59,5 +59,8 @@ GET Request -> localhost:3000/api/posts
 ```
 
 ## Author
+AYCHDeveloper.
 
-Odueke Tolulope
+## License
+The AGPL-3.0+.
+
